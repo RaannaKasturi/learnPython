@@ -14,3 +14,6 @@ $ `pip install venv`
 
 ### Deactivate Virtual Environment
 $ `deactivate`
+
+### Deleting Virtual Environment (Project will not work)
+$ `rm -rf envName`
