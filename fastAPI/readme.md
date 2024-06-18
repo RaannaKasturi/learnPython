@@ -23,7 +23,7 @@ app = FastAPI()
 def root():
     return { "hello": "nayan" }
 ```
-hello => key
-nayan => value
-get => GET (FastAPI Request type)
+- hello => key
+- nayan => value
+- get => GET (FastAPI Request type)
 
