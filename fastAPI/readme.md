@@ -1,7 +1,7 @@
 # FastAPI
 
 ### Installing FastAPI & Uvicorn
-$ `pip install fastapi`
+$ `pip install fastapi` <br>
 $ `pip install 'uvicorn[standard]'`
 
 ### Running API
